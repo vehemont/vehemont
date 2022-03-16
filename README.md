@@ -1,4 +1,4 @@
-<h1 align='center'>Welcome!</h1>
+<h1 align='center'>Welcome! 👋</h1>
 
 <p align="center">
   My name is Brad. I'm a network engineer that loves to automate (unsurprising!).
