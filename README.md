@@ -18,9 +18,6 @@
   </a>&nbsp;&nbsp;
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vehemont" />
-  <br>
-  <br>
-  <img src="https://badges.pufler.dev/visits/vehemont/vehemont" />
 </p>
 
 
