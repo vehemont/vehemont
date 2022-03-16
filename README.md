@@ -1,7 +1,7 @@
 <h1 align='center'>Welcome! 👋</h1>
 
 <p align="center">
-  My name is Brad. I'm a network engineer that loves to automate (unsurprising!).
+  My name is Brad. I'm a network engineer that loves to automate everything (unsurprising!).
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/bradleeriley/">
